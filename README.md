@@ -1,7 +1,7 @@
 # Olá, seja bem-vindo(a)! 👨🏻‍💻🌐
 
 <div>
-    <div>
+    <div style="text-align: justify;">
         <p style="text-align: justify; width: 100%; line-height: 1.6;">Meu nome é Ramon, sou um Software Engineer apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados. Tenho experiência com <strong style="font-weight: bold;">Linux, Java, JavaScript, HTML, CSS, Python, SQL, Git, GitHub, entre outras tecnologias</strong>. Atualmente, estudo Ciência da Computação e participo do programa ONE da Oracle, além de estar me certificando como IBM Full Stack Developer.</p>
     </div>
     <div>
