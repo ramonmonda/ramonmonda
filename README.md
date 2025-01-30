@@ -92,4 +92,4 @@
 <div align="center">
     <p>"A tecnologia não é apenas sobre escrever código,<br> é sobre resolver problemas e transformar ideias em realidade." 💡</p>
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBmaWY0NmlkaW91YWU1c2pzM3BjM2hkd2Vpa2Z2OGYyOXM0dmF5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3l5yJWhnbw5yyqDcQg/giphy.gif" alt="Matrix GIF"/>
-</div>
+</div><br>
