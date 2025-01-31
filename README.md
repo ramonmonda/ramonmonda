@@ -78,7 +78,7 @@
 
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramonmonda&show_icons=true&theme=vue&card_width=700px" alt="Gráfico de Commits"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramonmonda&show_icons=true&theme=vue&card_width=700px" alt="Gráfico de Linguagens mais usadas"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramonmonda&theme=vue&card_width=700px" alt="Gráfico de Linguagens mais usadas"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonmonda&show_icons=true&theme=vue&card_width=700px" alt="Gráfico de Linguagens mais usadas"/>
 </div><br>
 
